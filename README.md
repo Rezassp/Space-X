@@ -1,6 +1,6 @@
 Space-x project
 
-  Space-x is a learning project in data science.It includes different parts which data scientists usually encounter in real projects such as data gathering, data   preparation and feature engineering, machine learning models and visualization. In addition, the different parts of python syntax and working with various libraries are exhibited.
+  Space-x is a learning project in data science.It includes different parts which data scientists usually encounter in real projects such as data gathering, data   preparation, feature engineering, machine learning models and visualization. In addition, the different parts of python syntax and working with various libraries are exhibited.
   
 Space-x project objective
 
@@ -37,6 +37,7 @@ In this step, the data is manipulated to prepare the data frame for machine lear
   6. Saving the final data frame with pandas
 
 Stage 4
+
 Four classification machine learning models including: 
   1. Logistic Regression
   2. Support Vector Machine
